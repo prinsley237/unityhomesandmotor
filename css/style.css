@@ -4,6 +4,15 @@
     line-height: 1.2;
 }
 
+.contact-email {
+    font-size: 0.85rem;
+}
+
+.contact-email i {
+    font-size: 0.85rem;
+}
+
+
 /*** Spinner Start ***/
 /*** Spinner ***/
 #spinner {
@@ -957,6 +966,7 @@
     background: var(--bs-dark);
 }
 /*** copyright end ***/
+
 
 
 
