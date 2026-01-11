@@ -1,3 +1,8 @@
+.navbar-brand h1 {
+    font-size: 1.5rem;   /* reduce from display-6 */
+    margin: 0;
+    line-height: 1.2;
+}
 
 /*** Spinner Start ***/
 /*** Spinner ***/
@@ -952,5 +957,6 @@
     background: var(--bs-dark);
 }
 /*** copyright end ***/
+
 
 
